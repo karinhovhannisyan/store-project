@@ -1,0 +1,19 @@
+{
+  "name": "store",
+  "version": "5.1.2",
+  "description": "Store project with pure HTM, CSS and JS",
+  "main": "all.js",
+  "scripts": {
+    "start": "gulp watch",
+    "build": "gulp build",
+    "dev": "gulp dev"
+  },
+  "keywords": [
+    "html",
+    "css",
+    "javascript",
+    "front-end"
+  ],
+  "author": "Web Group-2",
+  "license": "ISC"
+}
